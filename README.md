@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-Source files for my portfolio website. Find live version at:
+Source files for my portfolio website. Find live version at: <https://jimezesinachi.netlify.app/>
 
 ## Original Author
 
