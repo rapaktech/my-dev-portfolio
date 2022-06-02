@@ -1,4 +1,4 @@
-# DEVELOPER PORTFOLIO
+# My Developer Portfolio
 
 Source files for my portfolio website. Find live version at: <https://jimezesinachi.netlify.app/>
 
